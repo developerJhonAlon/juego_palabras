@@ -3,15 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Datos;
-
-import java.io.File;
+package Modelos;
 
 /**
  *
  * @author Jhonny
  */
-public class Archivo {
-    private File archivo;
+public class Palabras {
     
 }
